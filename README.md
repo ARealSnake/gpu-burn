@@ -4,8 +4,9 @@ http://wili.cc/blog/gpu-burn.html
 
 ## Build and run
 
-``` Make ```
-``` ./gpu_burn [Burning time]  ```
+`` Make `` 
+
+`` ./gpu_burn [Burning time]  ``
 
 ## Why forking? 
 
