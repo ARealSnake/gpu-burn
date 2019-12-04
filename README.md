@@ -2,11 +2,23 @@
 Multi-GPU CUDA stress test
 http://wili.cc/blog/gpu-burn.html
 
-## Build and run
+## Build 
 
-`` Make `` 
+```
+make
+```
 
-`` ./gpu_burn [Burning time]  ``
+## Run
+
+Run with single precision:
+```
+./gpu_burn [Burning time]
+```
+
+Run with double precision:
+```
+./gpu_burn -d [Burning time]
+```
 
 ## Why forking? 
 
